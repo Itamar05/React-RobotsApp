@@ -32,9 +32,9 @@ class App extends Component {
 
       })
 
-      if (this.state.robots.length === 0) {
-        return <h2>loading</h2>
-      } else {
+      // if (this.state.robots.length === 0) {
+      //   return <h2>loading</h2>
+      // } else {
         return (
           <div className="tc"> 
           <h1 className="title">RobotFriends</h1>
@@ -43,7 +43,7 @@ class App extends Component {
             <CardList robots={filteredRobots} />
             </Scroll>
           </div> )
-      }   
+      // }   
   }
 }
 

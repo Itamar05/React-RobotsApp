@@ -5,7 +5,7 @@ import React from 'react'
         // return console.log(props);
         
         
-         return  <div className='cssapp' style = {{ overflowY: 'scroll', border: '2px solid black', height: '800px'}}>{props.children}
+         return  <div  style = {{ overflowY: 'scroll', border: '2px solid black', height: '800px'}}>{props.children}
                 
             </div>;
         

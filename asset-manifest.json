@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-RobotsApp/static/css/main.da8965c0.chunk.css",
+    "main.js": "/React-RobotsApp/static/js/main.3ab57a38.chunk.js",
+    "main.js.map": "/React-RobotsApp/static/js/main.3ab57a38.chunk.js.map",
+    "runtime-main.js": "/React-RobotsApp/static/js/runtime-main.3bf20731.js",
+    "runtime-main.js.map": "/React-RobotsApp/static/js/runtime-main.3bf20731.js.map",
+    "static/css/2.299a5230.chunk.css": "/React-RobotsApp/static/css/2.299a5230.chunk.css",
+    "static/js/2.bad5ebae.chunk.js": "/React-RobotsApp/static/js/2.bad5ebae.chunk.js",
+    "static/js/2.bad5ebae.chunk.js.map": "/React-RobotsApp/static/js/2.bad5ebae.chunk.js.map",
+    "index.html": "/React-RobotsApp/index.html",
+    "precache-manifest.f2c9d59e09e9185a11557ded10fedb65.js": "/React-RobotsApp/precache-manifest.f2c9d59e09e9185a11557ded10fedb65.js",
+    "service-worker.js": "/React-RobotsApp/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/React-RobotsApp/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.da8965c0.chunk.css.map": "/React-RobotsApp/static/css/main.da8965c0.chunk.css.map",
+    "static/js/2.bad5ebae.chunk.js.LICENSE.txt": "/React-RobotsApp/static/js/2.bad5ebae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf20731.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.bad5ebae.chunk.js",
+    "static/css/main.da8965c0.chunk.css",
+    "static/js/main.3ab57a38.chunk.js"
+  ]
+}
